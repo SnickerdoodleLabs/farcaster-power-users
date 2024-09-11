@@ -17,6 +17,7 @@ export THIRDWAVE_API_KEY='twv_blah'
 ## Run the script
 
 ```sh
+pip install -r requirements.txt
 python farcaster_power_user_analysis.py
 ```
 
